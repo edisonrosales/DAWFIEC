@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T04:42:22.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="Rtt_NRhD7bk5TzlLXGb-" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T04:42:47.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="Vcdm4msIGTn4kwMIsYww" version="13.10.5" type="github">
   <diagram id="9h8CFOCDP87hbLBySvGZ" name="Page-1">
     <mxGraphModel dx="1962" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="UgFRVywHfd-tzTmDvYPv-46" value="Spark Streaming" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="165.89999999999998" width="84.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UgFRVywHfd-tzTmDvYPv-56" value="Usuario - Reportes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="965.25" y="90" width="104.75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
