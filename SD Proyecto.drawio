@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T03:13:36.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="9ImUjklc2f5wC91lcatZ" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T03:18:56.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="Max_7_Z4n4MvhOwuTenB" version="13.10.5" type="github">
   <diagram id="9h8CFOCDP87hbLBySvGZ" name="Page-1">
-    <mxGraphModel dx="1695" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1962" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,6 +59,24 @@
         </mxCell>
         <mxCell id="UgFRVywHfd-tzTmDvYPv-6" value="Amazon Cloudfront" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudfront;" vertex="1" parent="1">
           <mxGeometry x="270" y="239.1" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UgFRVywHfd-tzTmDvYPv-12" value="Amazon S3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="284.1" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UgFRVywHfd-tzTmDvYPv-13" value="Dynamo DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="565" width="84" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UgFRVywHfd-tzTmDvYPv-16" value="Lambda Function" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="787" y="398" width="103" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UgFRVywHfd-tzTmDvYPv-17" value="Amazon RDS, Motor BD - MySQL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="565" width="110.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UgFRVywHfd-tzTmDvYPv-18" value="Apache Spark" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="586.8" y="133.6" width="84.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UgFRVywHfd-tzTmDvYPv-19" value="Apache Kafka" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="292.61999999999995" y="140" width="84.75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
