@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T03:18:56.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="Max_7_Z4n4MvhOwuTenB" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T03:19:32.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="0iSdLoj8XwNoAs7mNgQ9" version="13.10.5" type="github">
   <diagram id="9h8CFOCDP87hbLBySvGZ" name="Page-1">
     <mxGraphModel dx="1962" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,6 +77,9 @@
         </mxCell>
         <mxCell id="UgFRVywHfd-tzTmDvYPv-19" value="Apache Kafka" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="292.61999999999995" y="140" width="84.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UgFRVywHfd-tzTmDvYPv-20" value="Dispositivos de usuarios" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-39.570000000000064" y="329.1" width="84.75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
